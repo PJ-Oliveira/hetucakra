@@ -60,7 +60,7 @@ Assim como na posição 4, não há outros exemplos ou contraexemplos que diriam
 
 ![image](https://user-images.githubusercontent.com/84526032/178046496-8ae5e03c-22c9-4a3d-b94e-bc5ad7a19fa0.png)
 
-O desenvolvimento desse Software fez com que chegasse a conclusão de que cada posição da Roda das Razões (Hetucakra) tem propriedades lógicas bem específicas que podem ser estudadas pelos pesquisadores com mais clareza e rigor através dos recursos aqui promovidos. O desenvolvimento do “O Raciocinador do Hetucakra” se assemelha a vários tipos de “validadores automáticos” disponíveis no mercado. E, como qualquer “validador automático” tem seus objetivos específicos e peculiares. Tais objetivos atenderão aos interesses dos scholars que visam compreender e entender melhor como funciona a lógica Indiana e especialmente a lógica Budista
+O desenvolvimento desse Software fez com que eu chegasse a conclusão de que cada posição da Roda das Razões (Hetucakra) tem propriedades lógicas bem específicas que podem ser estudadas pelos pesquisadores com mais clareza e rigor através dos recursos aqui promovidos. O desenvolvimento do “O Raciocinador do Hetucakra” se assemelha a vários tipos de “validadores automáticos” disponíveis no mercado. E, como qualquer “validador automático” tem seus objetivos específicos e peculiares. Tais objetivos atenderão aos interesses dos scholars que visam compreender e entender melhor como funciona a lógica Indiana e especialmente a lógica Budista
 
 
 
