@@ -63,8 +63,11 @@ Assim como na posição 4, não há outros exemplos ou contraexemplos que diriam
 O desenvolvimento desse Software fez com que eu chegasse a conclusão de que cada posição da Roda das Razões (Hetucakra) tem propriedades lógicas bem específicas que podem ser estudadas pelos pesquisadores com mais clareza e rigor através dos recursos aqui promovidos. O desenvolvimento do “O Raciocinador do Hetucakra” se assemelha a vários tipos de “validadores automáticos” disponíveis no mercado. E, como qualquer “validador automático” tem seus objetivos específicos e peculiares. Tais objetivos atenderão aos interesses dos scholars que visam compreender e entender melhor como funciona a lógica Indiana e especialmente a lógica Budista
 
 **REFERÊNCIAS**
-CHI, Richard See Yee. Buddhist Formal Logic. Great Britain and Ireland: Royal Asiatic Society of Great Britain and Ireland, 1969. 222 p. 
+
+CHI, Richard See Yee. Buddhist Formal Logic. Great Britain and Ireland: Royal Asiatic Society of Great Britain and Ireland, 1969. 222 p.
+
 HAYES, R.P.. Dignaga on the Interpretation of Signs. Germany: Springer Science & Business Media, 1988. 365 p.
+
 BHATT, S. R; Mehrotra, Anu; Dignaga. Buddhist Epistemology. [S. l.]: Greenwood Publishing Group, 2000. 140 p.
 
 
