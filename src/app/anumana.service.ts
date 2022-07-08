@@ -11,7 +11,7 @@ export class AnumanaService
   constructor(private httpCliente: HttpClient) { }
 
   createAnumana(anumana: Anumana): Observable<Object> {
-    return this.httpCliente.post('https://hetucakra-api.herokuapp.com', anumana);
+    return this.httpCliente.post('https://hetucakra-api.herokuapp.com/', anumana);
   }
 
 }
