@@ -1,5 +1,7 @@
 # O Raciocinador do Hetucakra
 
+Para acessar o site com esse projeto clique no link : https://pj-oliveira.github.io/hetucakra/
+
 Aqui apresento brevemente uma documentação sobre o funcionamento desse software. Essa apresentação terá dois focos principais:
   - explicar o funcionamento da interface visual.
   - explicar a semântica e a lógica por detrás de cada validação das posições da Roda das Razões (*Hetucakra*) do Lógico Budista Dignāga.
